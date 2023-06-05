@@ -1,0 +1,2 @@
+D:\YoBrunox\Universidad\POO\PC_1\PC_1\Debug\PC_1.vcxproj.AssemblyReference.cache
+D:\PC_1\PC_1\Debug\PC_1.vcxproj.AssemblyReference.cache

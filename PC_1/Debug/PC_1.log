@@ -1,0 +1,17 @@
+﻿  PC_1.cpp
+D:\PC_1\PC_1\CJuego.h(67,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+D:\PC_1\PC_1\CJuego.h(153,20): warning C4018: '<': no coinciden signed/unsigned
+D:\PC_1\PC_1\CJuego.h(159,20): warning C4018: '<': no coinciden signed/unsigned
+D:\PC_1\PC_1\CJuego.h(164,20): warning C4018: '<': no coinciden signed/unsigned
+D:\PC_1\PC_1\CJuego.h(171,21): warning C4018: '<': no coinciden signed/unsigned
+D:\PC_1\PC_1\CJuego.h(178,21): warning C4018: '<': no coinciden signed/unsigned
+D:\PC_1\PC_1\CJuego.h(194,20): warning C4018: '<': no coinciden signed/unsigned
+D:\PC_1\PC_1\CJuego.h(221,20): warning C4018: '<': no coinciden signed/unsigned
+D:\PC_1\PC_1\CJuego.h(230,20): warning C4018: '<': no coinciden signed/unsigned
+D:\PC_1\PC_1\CJuego.h(238,20): warning C4018: '<': no coinciden signed/unsigned
+D:\PC_1\PC_1\PC_1.cpp(26,13): warning C4551: la llamada a la función no tiene lista de argumentos
+D:\PC_1\PC_1\PC_1.cpp(27,21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+D:\PC_1\PC_1\PC_1.cpp(45,9): warning C4996: '_sleep': This function or variable has been superceded by newer library or operating system functionality. Consider using Sleep instead. See online help for details.
+D:\PC_1\PC_1\CJuego.h(192): warning C4715: 'CJUEGO::Meta': no todas las rutas de acceso de control devuelven un valor
+  AssemblyInfo.obj : se encontró un módulo MSIL; vinculación incremental deshabilitada para MSIL; ejecutando vínculo completo
+  PC_1.vcxproj -> D:\PC_1\Debug\PC_1.exe
